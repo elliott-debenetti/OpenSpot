@@ -1,0 +1,23 @@
+{
+  "image_path": "/Users/elliott/Documents/GitHub/OpenSpot/image_gen/image_dataset/collingwood_1/frame_0082.jpg",
+  "boundary": [
+    [
+      475,
+      232
+    ],
+    [
+      416,
+      238
+    ],
+    [
+      1024,
+      678
+    ],
+    [
+      1019,
+      575
+    ]
+  ],
+  "vertical_lines": [],
+  "horizontal_lines": [
+    
