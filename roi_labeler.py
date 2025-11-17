@@ -503,9 +503,7 @@ class TemplateBasedLabeler:
     
     def run(self):
         """Main loop for the labeler."""
-        cv2.namedWindow(self.window_name, cv2.WINDOW_NORMAL)
-        cv2.resizeWindow(self.window_name, 1280, 720)
-        cv2.setWindowProperty(self.window_name, cv2.WND_PROP_ASPECT_RATIO, 0)
+        cv2.namedWindow(self.window_name)
         cv2.setMouseCallback(self.window_name, self.mouse_callback)
         self.draw()
         
