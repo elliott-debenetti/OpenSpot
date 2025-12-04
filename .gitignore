@@ -1,2 +1,4 @@
 image_dataset/**/*.jpg
+dataset/**/*.jpg
+out_dir/RCNN_v2/*.pt
 *.DS_Store
